@@ -1,0 +1,45 @@
+@charset "utf-8";
+*{
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	border:none;
+	font-weight:normal;
+	font-style:normal;
+	outline:none;
+	font-family:Titillium,Titillium-eot, Arial, Helvetica, sans-serif;
+}
+body{
+	background:#E8E8E8;
+}
+@font-face {
+	font-family: Titillium;
+	src: url('../fonts/Titillium-Regular.otf');
+}
+@font-face {
+	font-family: Titillium-eot;
+	src: url('../fonts/titillium-regular-webfont.eot');
+}
+#container{
+	border:1px solid #999;
+	background:#fff;
+	padding:5px;
+	width:720px;
+	margin:auto;
+	margin-top:20px;
+	font-size:16px;
+	line-height:20px;
+	color:#333;
+}
+#container table{
+	width:100%;
+}
+#container table th{
+	padding:10px;
+	text-align:left;
+	background:yellow;
+}
+#container table td{
+	padding:10px;
+	text-align:left;
+}

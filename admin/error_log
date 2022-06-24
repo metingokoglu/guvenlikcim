@@ -1,0 +1,98 @@
+[05-Dec-2018 11:58:17 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/guvenli3/public_html/admin/galeriyukle.php:38) in /home/guvenli3/public_html/admin/galeriyukle.php on line 44
+[05-Dec-2018 12:00:18 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/guvenli3/public_html/admin/galeriyukle.php:38) in /home/guvenli3/public_html/admin/galeriyukle.php on line 44
+[05-Dec-2018 12:00:29 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/guvenli3/public_html/admin/galeriyukle.php:38) in /home/guvenli3/public_html/admin/galeriyukle.php on line 44
+[05-Dec-2018 12:06:06 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/guvenli3/public_html/admin/galeriyukle.php:35) in /home/guvenli3/public_html/admin/galeriyukle.php on line 44
+[26-Jan-2019 17:35:06 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/guvenli3/public_html/admin/musteriguncelleme.php on line 82
+[27-Feb-2019 20:08:58 Europe/Istanbul] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'guvenli3_metin'@'localhost' (using password: YES) in /home/arlinmzi/guvenlik-cim.com/baglan.php on line 2
+[27-Feb-2019 20:08:58 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arlinmzi/guvenlik-cim.com/baglan.php on line 4
+[27-Feb-2019 22:28:04 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 11:00:48 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ':' in /home/arlinmzi/guvenlik-cim.com/admin/yedek.php on line 19
+[28-Feb-2019 11:01:12 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ':' in /home/arlinmzi/guvenlik-cim.com/admin/yedek.php on line 19
+[28-Feb-2019 11:01:29 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ':' in /home/arlinmzi/guvenlik-cim.com/admin/yedek.php on line 19
+[28-Feb-2019 11:01:55 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ':' in /home/arlinmzi/guvenlik-cim.com/admin/yedek.php on line 19
+[28-Feb-2019 11:01:55 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ':' in /home/arlinmzi/guvenlik-cim.com/admin/yedek.php on line 19
+[28-Feb-2019 11:01:55 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ':' in /home/arlinmzi/guvenlik-cim.com/admin/yedek.php on line 19
+[28-Feb-2019 11:01:56 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ':' in /home/arlinmzi/guvenlik-cim.com/admin/yedek.php on line 19
+[28-Feb-2019 11:02:00 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ':' in /home/arlinmzi/guvenlik-cim.com/admin/yedek.php on line 19
+[28-Feb-2019 11:05:06 Europe/Istanbul] PHP Warning:  exec() has been disabled for security reasons in /home/arlinmzi/guvenlik-cim.com/admin/yedek.php on line 24
+[28-Feb-2019 11:05:13 Europe/Istanbul] PHP Warning:  exec() has been disabled for security reasons in /home/arlinmzi/guvenlik-cim.com/admin/yedek.php on line 24
+[28-Feb-2019 19:06:52 Europe/Istanbul] PHP Notice:  Undefined variable: link in /home/arlinmzi/guvenlik-cim.com/admin/musterisil.php on line 8
+[28-Feb-2019 19:06:52 Europe/Istanbul] PHP Notice:  Undefined variable: link in /home/arlinmzi/guvenlik-cim.com/admin/musterisil.php on line 10
+[28-Feb-2019 19:06:52 Europe/Istanbul] PHP Warning:  unlink(): No such file or directory in /home/arlinmzi/guvenlik-cim.com/admin/musterisil.php on line 10
+[28-Feb-2019 19:19:24 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 19:22:17 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 19:25:10 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 19:25:40 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/arlinmzi/guvenlik-cim.com/admin/musteriguncelleme.php on line 82
+[28-Feb-2019 19:28:47 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 19:30:37 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 19:32:25 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 19:34:06 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 19:39:12 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 19:47:27 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 19:47:57 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/arlinmzi/guvenlik-cim.com/admin/musteriguncelleme.php on line 82
+[28-Feb-2019 19:52:56 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 19:56:18 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 19:58:53 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 20:01:39 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 20:13:58 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 20:38:26 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 20:43:32 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 20:45:06 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 20:48:39 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[28-Feb-2019 20:55:04 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 13:53:47 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/arlinmzi/guvenlik-cim.com/admin/musteriguncelleme.php on line 82
+[02-Mar-2019 14:07:51 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:12:00 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:14:34 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:18:16 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:22:30 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:24:42 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:26:37 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:30:57 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:35:08 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:45:03 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:48:31 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:51:18 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:54:16 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 14:58:01 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[02-Mar-2019 15:00:09 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[04-Mar-2019 18:00:03 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[05-Mar-2019 22:37:31 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/arlinmzi/guvenlik-cim.com/admin/musteriguncelleme.php on line 82
+[05-Mar-2019 22:37:41 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/arlinmzi/guvenlik-cim.com/admin/musteriguncelleme.php on line 82
+[06-Mar-2019 17:04:57 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[06-Mar-2019 17:37:36 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/arlinmzi/guvenlik-cim.com/admin/musteriguncelleme.php on line 82
+[06-Mar-2019 17:37:39 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/arlinmzi/guvenlik-cim.com/admin/musteriguncelleme.php on line 82
+[12-Mar-2019 00:29:24 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 00:32:21 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 00:35:00 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 00:45:12 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 00:48:42 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 00:50:57 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 00:56:57 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 00:59:53 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 01:01:55 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 01:05:07 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 01:06:37 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 01:08:11 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 01:10:44 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 01:15:21 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 22:13:46 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[12-Mar-2019 22:14:36 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/arlinmzi/guvenlik-cim.com/admin/musteriguncelleme.php on line 82
+[12-Mar-2019 22:14:43 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/arlinmzi/guvenlik-cim.com/admin/musteriguncelleme.php on line 82
+[12-Mar-2019 22:14:49 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '}' in /home/arlinmzi/guvenlik-cim.com/admin/musteriguncelleme.php on line 82
+[12-Mar-2019 22:26:04 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[22-Mar-2019 23:40:23 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[22-Mar-2019 23:49:57 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/kayitguncelleme.php on line 7
+[22-Mar-2019 23:50:15 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/kayitguncelleme.php on line 7
+[22-Mar-2019 23:50:38 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/kayitguncelleme.php on line 7
+[22-Mar-2019 23:50:54 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/kayitguncelleme.php on line 7
+[22-Mar-2019 23:51:08 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/kayitguncelleme.php on line 7
+[22-Mar-2019 23:51:37 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/yenikayitekle.php on line 7
+[22-Mar-2019 23:52:45 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/yenikayitekle.php on line 7
+[22-Mar-2019 23:53:52 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/yenikayitekle.php on line 7
+[23-Mar-2019 17:12:45 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/yenikayitekle.php on line 7
+[02-Apr-2019 19:34:13 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[25-Apr-2019 20:38:48 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[25-Apr-2019 20:39:47 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[25-Apr-2019 20:40:16 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8
+[25-Apr-2019 20:44:13 Europe/Istanbul] PHP Notice:  A session had already been started - ignoring session_start() in /home/arlinmzi/guvenlik-cim.com/admin/musteriekle.php on line 8

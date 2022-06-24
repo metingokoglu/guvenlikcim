@@ -1,0 +1,92 @@
+*{
+    border:0;
+    margin:0;
+    padding: 0;
+}
+div.gallery {
+    border: 1px ridge #ccc;
+}
+
+div.gallery:hover {
+    border: 1px ridge #FF0C20;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+div.responsive {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0 20px;
+    margin-top: 20px;
+    float: left;
+    width: 49.99999%;
+}
+
+
+@media only screen and (max-width: 700px) {
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+     .referansbox {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 100%;
+    }
+     .referansbox {
+        width: 100%;
+    }
+}
+.zoom {
+
+
+    transition: transform .2s;
+
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.referansbox{
+    padding: 15px 0 0 10px;
+    border: 1px ridge #CCC;
+
+}
+.referansbox:hover{
+    
+border: 1px ridge #00b4ff;
+}
+
+.yazi h6{
+    color:#00b4ff;
+    text-align: center;
+}
+.yazi p{
+    padding: 0 0 0 45px;
+    font-weight: bold;
+    font-family: 'Open Sans', arial, sans-serif;
+
+}

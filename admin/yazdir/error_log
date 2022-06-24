@@ -1,0 +1,38 @@
+[28-Feb-2019 19:08:03 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:08:30 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:08:36 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:09:00 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:09:01 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:09:06 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:20:35 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:20:36 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:21:34 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:22:37 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:22:38 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:22:47 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:22:54 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:22:58 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:23:00 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:23:26 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:23:27 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:23:39 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:23:59 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:24:00 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:24:02 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:24:23 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 5
+[28-Feb-2019 19:24:45 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 46
+[28-Feb-2019 19:24:51 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 46
+[28-Feb-2019 19:25:03 Europe/Istanbul] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 46
+[28-Feb-2019 19:27:00 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:27:04 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:27:06 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:27:56 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:27:56 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:28:01 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:28:07 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:29:01 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:29:01 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:29:03 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 4
+[28-Feb-2019 19:46:36 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '<' in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 98
+[28-Feb-2019 19:46:56 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '<' in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 98
+[28-Feb-2019 19:47:00 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '<' in /home/arlinmzi/guvenlik-cim.com/admin/yazdir/sayfa.php on line 98

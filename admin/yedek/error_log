@@ -1,0 +1,26 @@
+[28-Feb-2019 17:23:33 Europe/Istanbul] PHP Warning:  unlink(./guvenlik-cim-veritabani-yedek-dosyasi20190228_172254.sql.gz): No such file or directory in /home/arlinmzi/guvenlik-cim.com/admin/yedek/mail.php on line 42
+[07-Apr-2019 01:00:07 Europe/Istanbul] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'Could not access file: ./guvenlik-cim-veritabani-yedek-dosyasi20190331_000002.sql.gz' in /home/arlinmzi/guvenlik-cim.com/admin/yedek/vendor/phpmailer/phpmailer/src/PHPMailer.php:2813
+Stack trace:
+#0 /home/arlinmzi/guvenlik-cim.com/admin/yedek/mail.php(34): PHPMailer\PHPMailer\PHPMailer->addAttachment('./guvenlik-cim-...')
+#1 {main}
+  thrown in /home/arlinmzi/guvenlik-cim.com/admin/yedek/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2813
+[14-Apr-2019 01:00:04 Europe/Istanbul] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'Could not access file: ./guvenlik-cim-veritabani-yedek-dosyasi20190331_000002.sql.gz' in /home/arlinmzi/guvenlik-cim.com/admin/yedek/vendor/phpmailer/phpmailer/src/PHPMailer.php:2813
+Stack trace:
+#0 /home/arlinmzi/guvenlik-cim.com/admin/yedek/mail.php(34): PHPMailer\PHPMailer\PHPMailer->addAttachment('./guvenlik-cim-...')
+#1 {main}
+  thrown in /home/arlinmzi/guvenlik-cim.com/admin/yedek/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2813
+[21-Apr-2019 01:00:06 Europe/Istanbul] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'Could not access file: ./guvenlik-cim-veritabani-yedek-dosyasi20190331_000002.sql.gz' in /home/arlinmzi/guvenlik-cim.com/admin/yedek/vendor/phpmailer/phpmailer/src/PHPMailer.php:2813
+Stack trace:
+#0 /home/arlinmzi/guvenlik-cim.com/admin/yedek/mail.php(34): PHPMailer\PHPMailer\PHPMailer->addAttachment('./guvenlik-cim-...')
+#1 {main}
+  thrown in /home/arlinmzi/guvenlik-cim.com/admin/yedek/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2813
+[28-Apr-2019 01:00:06 Europe/Istanbul] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'Could not access file: ./guvenlik-cim-veritabani-yedek-dosyasi20190331_000002.sql.gz' in /home/arlinmzi/guvenlik-cim.com/admin/yedek/vendor/phpmailer/phpmailer/src/PHPMailer.php:2813
+Stack trace:
+#0 /home/arlinmzi/guvenlik-cim.com/admin/yedek/mail.php(34): PHPMailer\PHPMailer\PHPMailer->addAttachment('./guvenlik-cim-...')
+#1 {main}
+  thrown in /home/arlinmzi/guvenlik-cim.com/admin/yedek/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2813
+[05-May-2019 01:00:05 Europe/Istanbul] PHP Fatal error:  Uncaught exception 'PHPMailer\PHPMailer\Exception' with message 'Could not access file: ./guvenlik-cim-veritabani-yedek-dosyasi20190331_000002.sql.gz' in /home/arlinmzi/guvenlik-cim.com/admin/yedek/vendor/phpmailer/phpmailer/src/PHPMailer.php:2813
+Stack trace:
+#0 /home/arlinmzi/guvenlik-cim.com/admin/yedek/mail.php(34): PHPMailer\PHPMailer\PHPMailer->addAttachment('./guvenlik-cim-...')
+#1 {main}
+  thrown in /home/arlinmzi/guvenlik-cim.com/admin/yedek/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2813

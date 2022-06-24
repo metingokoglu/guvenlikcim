@@ -1,0 +1,71 @@
+@charset "utf-8";
+
+*{
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	border:none;
+	font-weight:normal;
+	font-style:normal;
+	outline:none;
+	font-family:Titillium,Titillium-eot, Arial, Helvetica, sans-serif;
+}
+body{
+	background:#fff;
+}
+@font-face {
+	font-family: Titillium;
+	src: url('../fonts/Titillium-Regular.otf');
+}
+@font-face {
+	font-family: Titillium-eot;
+	src: url('../fonts/titillium-regular-webfont.eot');
+}
+
+.table{
+	width:800px;
+	border:1px solid #000413;
+}
+.servisbaslik{
+	color:#617ab2;
+	text-align:center;
+	font-weight:bold;
+	padding-top:10px;
+}
+.ictable{
+	float:right;
+	padding-right:5px;
+}
+.icbaslik{
+	background-color:#18355d;
+	color:white;
+	text-align:center;
+}
+
+.icbaslik td{
+	padding:5px 0px;
+}
+.trclass td{
+	padding:10px 5px;
+	border-bottom:1px solid #000413;
+}
+.trclass2 td{
+	padding:10px 5px;
+}
+.w150{
+	width:150px;
+}
+.w243{
+	width:243px;
+}
+.w1{
+	width:1px;
+}
+.w2{
+	border-right:1px solid #000413;
+}
+
+
+
+
+
